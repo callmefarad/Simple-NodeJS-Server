@@ -84,14 +84,11 @@ This sample image shows that all is done and dusted as our server is running and
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1emop3pwubieju3y7e1l.PNG)
 
-You can get the full code to this tutorial <a href="https://github.com/callmefarad/Simple-NodeJS-Server"> here </a>
+You can get my articles <a href="https://dev.to/callmefarad"> here </a>
 
 Trust you've learnt how to create a simple server with node.js.
 
-
-
 # From Installation to Running the Application
-To get the complete process from installation to running the application is stated on the article of this repo.
-click on the link to bellow:
-
-https://dev.to/callmefarad/simple-nodejs-server-1ee6
+The complete process from installation to running the application can be found <a href="https://dev.to/callmefarad/simple-nodejs-server-1ee6">here </a>.</br>
+Thanks for reading.</br>
+See you!!!!
